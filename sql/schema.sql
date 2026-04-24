@@ -1,0 +1,7 @@
+CREATE TABLE qr_codes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(150) NOT NULL,
+    qr_content TEXT NOT NULL,
+    qr_type VARCHAR(50) DEFAULT 'custom',
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
