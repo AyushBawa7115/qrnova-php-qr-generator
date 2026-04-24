@@ -1,4 +1,4 @@
-# ScanForge – PHP QR Code Generator with History
+# QRNova – PHP QR Code Generator with History
 
 A modern QR code generator built with **PHP, MySQL, HTML, CSS, and JavaScript**.  
 The project allows users to generate QR codes for links, text, GitHub profiles, LinkedIn profiles, emails, phone numbers, and custom content. It also saves generated QR records in a MySQL database so users can view, preview, and delete QR history.
